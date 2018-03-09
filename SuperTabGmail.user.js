@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name             SuperTabGmail
 // @author           justalemon
-// @version          1.0
+// @version          1.0.1
 // @description      Avoid the creation of new tabs when you change the Google Account on Gmail
 // @description:es   Evita la creacion de nuevas pestañas cuando cambias la Cuenta de Google en Gmail
 // @license          MIT
@@ -16,7 +16,7 @@
 
 (function() {
     "use strict";
-    setInterval(refresh, 2500);
+    setInterval(refresh, 5000);
 
     function refresh()
     {
