@@ -5,7 +5,6 @@
 // @description      Avoid the creation of new tabs when you change the Google Account on Gmail
 // @description:es   Evita la creacion de nuevas pestañas cuando cambias la Cuenta de Google en Gmail
 // @license          MIT
-// @copyright        Year, Author (Author Website)
 // @include          https://mail.google.com/mail/*
 // @namespace        https://github.com/justalemon/UserScripts
 // @icon             https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico
